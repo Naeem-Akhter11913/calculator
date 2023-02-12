@@ -52,6 +52,7 @@ button:hover{
     background-color: #131313;
     color: white;
     font-size: 1.2rem;
+    border: none;
 }
 .btn .change{
     background: #272727;
